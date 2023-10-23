@@ -1,0 +1,6 @@
+path=C:\Users\241pr\OneDrive - UBC\Desktop\Apps\UBC\ELEC 291\call51\Bin\..\lib\small
+lib=libc51.lib
+lib=libint.lib
+lib=liblong.lib
+lib=libfloat.lib
+obj=PeriodEFM8.obj
